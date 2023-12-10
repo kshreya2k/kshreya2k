@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 #### I am obsessed with bringing the creativity of my art and technical skills to my projects. Coding has become a hobby for me, and I like watching how my efforts transform into a positive user experience.
 <!-- Add a GIF image here -->
-<img align="right" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l" alt="code" width="300"/>
+<img align="right" src="https://github.com/kshreya2k/kshreya2k/blob/main/girlcode.gif" alt="code" width="300"/>
 
 - 🔭 I’m currently working on sharpening my problem solving skills.
 - 🌱 I’m currently learning NLP.
