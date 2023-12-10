@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-#### I'm an aspiring Data Scientist residing in connecticut, USA. Currently pursuing my masters in Data Scinece (2023-2025) at University Of New Haven. 
+#### I'm an aspiring Data Scientist residing in connecticut, USA. Currently pursuing my masters in Data Scinece (2023-2025) at the University Of New Haven. 
 
 #### I am obsessed with bringing the creativity of my art and technical skills to my projects. Coding has become a hobby for me, and I like watching how my efforts transform into a positive user experience.
 <!-- Add a GIF image here -->
