@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on Web/ML Projects.
 - 🤔 I’m looking for help with learning AWS.
-- 💬 Ask me about AI, PC Gaming, Painting, Music, Food, Travelling, Sci-fi Movies and Anime.
+- 💬 Ask me about AI, ML, PC Gaming, Painting, Music, Food, Travelling, Sci-fi Movies & Animes.
 - 📫 How to reach me: Mail me at -> [shreyabanik2k@gmail.com](shreyabanik2k@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love inventing new food recipes 🍲
