@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about AI, ML, PC Gaming, Painting, Music, Food, Travelling, Sci-fi Movies & Animes.
 - 📫 How to reach me: Mail me at -> [shreyabanik2k@gmail.com](shreyabanik2k@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love inventing new food recipes 🍲
+- ⚡ Fun fact: I love computer games ;)
 
 #### Connect me: 
 [LinkedIn](https://www.linkedin.com/in/banikshreya/) | [Twitter](https://twitter.com/ShreyaB63407529) | [Website](https://kshreya2k.github.io/My_Portfolio/)
