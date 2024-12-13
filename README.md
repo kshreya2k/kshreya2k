@@ -1,4 +1,5 @@
-## Hello User 👋
+## Hey Friend 👋
+## How is it going?
 
 <!--
 **kshreya2k/kshreya2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
