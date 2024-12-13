@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love computer games ;)
 
 #### Connect me: 
-[LinkedIn](https://www.linkedin.com/in/banikshreya/) | [Twitter](https://twitter.com/ShreyaB63407529) | [Website](https://kshreya2k.github.io/My_Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/shreya-insights/) | [Twitter](https://twitter.com/ShreyaB63407529) | [Website](https://kshreya2k.github.io/Portfolio/)
 
 Looking forward to the journey ahead! 👩‍💻✨
